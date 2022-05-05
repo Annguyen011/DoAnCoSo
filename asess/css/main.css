@@ -825,4 +825,10 @@ footer {
     background-color: #ccc;
     height: auto;
     text-align: center;
+    margin-top: 20px;
+}
+
+.product-gallery-one-content-product-item-text a {
+    color: #000;
+    font-size:16px;
 }
