@@ -825,7 +825,12 @@ footer {
     background-color: #ccc;
     height: auto;
     text-align: center;
+<<<<<<< HEAD
     margin-top: 20px;
+=======
+        margin-top: 20px;
+
+>>>>>>> 1d34ec4a3c35a0233669c2f1712e76bf5919e5dc
 }
 
 .product-gallery-one-content-product-item-text a {
