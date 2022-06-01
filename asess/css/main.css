@@ -832,3 +832,43 @@ footer {
     color: #000;
     font-size:16px;
 }
+
+/* media queries  */
+@media (max-width:991px){
+.menu-bar-content{
+    display: none;
+}
+  
+}
+
+@media (max-width:768px){
+   
+   
+}
+
+@media (max-width:450px){
+
+   
+
+}
+
+
+.phone-number {
+    position: fixed;
+    z-index:1000;
+    background-color: transparent;
+    bottom: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+.phone-number i {
+    background-color:green;
+    font-size:32px;
+}
+
+
+.phone-number  a {
+    color:rgb(72, 72, 72);
+    font-size: 32px;
+}
