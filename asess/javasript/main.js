@@ -4,6 +4,8 @@ const leftbtn = document.querySelector(".fa-angle-left");
 const imgNumber = document.querySelectorAll(".slider-content-left-top img");
 const imgNumberLi = document.querySelectorAll(".slider-content-left-bottom li");
 let index = 0;
+var btn_navbar = document.querySelector(".nav-bar__btn");
+console.log(btn_navbar);
 
 adressbtn.addEventListener("click", function() {
     document.querySelector(".address-form").style.display = "flex";
